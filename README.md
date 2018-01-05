@@ -1,1 +1,1 @@
-# Simple To-do App built with react
+# Simple To-do App built with reactto practice react
